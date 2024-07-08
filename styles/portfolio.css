@@ -146,7 +146,55 @@ nav li a {
         border-radius: 5px;
     }
 
-    .resume{
-        display: flex;
-        justify-content: space-around;
-    }
+   .section-title{
+    text-align: center;
+    margin-bottom: 100px;
+   }
+
+   .experience-description{
+    font-size: 16px;
+   }
+
+   .experience-sub-title{
+    font-size: 20px;
+    color:rgba(117, 117, 117, 1);
+   }
+
+   .experience-title{
+    font-size:25px;
+   }
+
+   .resume-column-title-experience{
+    font-size: 30px;
+   }
+
+   .sr-font{
+    font-size: 25px;
+   }
+
+   .inc{
+    font-size: 20px;
+    color: rgba(117, 117, 117, 1);
+   }
+
+   .list-skill{
+    font-size: 15px;
+   }
+
+   .my-experience{
+    font-size: 30px;
+   }
+
+   .working .sr-font .inc .list-skill{
+    display: flex;
+   }
+
+   .resume-container{
+    display: flex;
+    gap: 160px;
+
+   }
+
+   .resume-download-cv{
+    margin-top: 50px;
+   }
